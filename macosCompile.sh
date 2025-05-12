@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Configure:
+# brew install autoconf automake libtool pkg-config
+# ./autogen.sh
+
 # Script per compilare ClamAV per macOS (x86_64 e arm64) per la distribuzione.
 # PRESUPPONE DI ESSERE ESEGUITO DALLA RADICE DELLA DIRECTORY DEI SORGENTI DI CLAMAV.
 
